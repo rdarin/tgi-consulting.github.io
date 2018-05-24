@@ -16,6 +16,9 @@
         "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer/issues",
         "email": "feedback@startbootstrap.com"
     },
+    "scripts": {
+        "start": "gulp dev"
+    },
     "license": "MIT",
     "author": "Start Bootstrap",
     "contributors": [
